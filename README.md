@@ -1,4 +1,3 @@
-Laboratorio-1 
 # Objetivo
 Conocer el Lenguaje de programación C++.
 Que los estudiantes conozcan técnicas para modularizar sus programas.
